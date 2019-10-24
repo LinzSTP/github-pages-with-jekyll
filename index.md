@@ -1,3 +1,3 @@
-# Welcome to my blog
+# This is just a test but it's going to be awesome
 
-I'm glad you are here. I plan to talk about ...
+First things first. Let's add some stuff to make this interesting.
