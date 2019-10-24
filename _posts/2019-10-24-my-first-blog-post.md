@@ -1,6 +1,6 @@
 ---
 title: "LinzSTP Blog"
-date: "2019-24-10"
+date: 2019-10-24
 
 ---
-Why is everything so difficult? I wishh I could snap my fingers and my web page would be built :)
+Why is everything so difficult? I wish I could snap my fingers and my web page would be built :)
